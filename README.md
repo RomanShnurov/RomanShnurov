@@ -57,8 +57,7 @@ Here is a glimpse of what I do:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanShnurov&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Roman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanShnurov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ---
