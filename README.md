@@ -30,8 +30,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-<img src="https://img.shields.io/badge/vLLM-Production-blue?style=flat" />
-<img src="https://img.shields.io/badge/RAG-Systems-green?style=flat" />
 
 ### ⚙️ Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -63,5 +61,5 @@ Here is a glimpse of what I do:
 ---
 
 <div align="center">
-  <p>Use the contacts above to get in touch regarding AI Engineering opportunities.</p>
+  <p>Use the contacts above to get in touch regarding AI Developing opportunities.</p>
 </div>
