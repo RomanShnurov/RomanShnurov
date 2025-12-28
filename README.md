@@ -2,7 +2,7 @@
   
   # Hi, I'm Roman Shnurov 👋
   
-  <h3>AI Engineer | LLM Specialist | Backend Developer</h3>
+  <h3>Software Engineer | AI Developer</h3>
 
   <p>
     I specialize in bridging the gap between Data Science and Production Engineering.<br>
